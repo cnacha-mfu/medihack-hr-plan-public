@@ -162,3 +162,75 @@ Tasks below are **samples** to record in the "Task / Duties" column, organized s
 - Prepare demo data, scenarios, and a walkthrough script.
 - Write documentation (setup guide and user guide).
 - Final prototype demo and presentation.
+
+---
+
+## How to fill in your time sheet — `แบบลงเวลา-นศ.ช่วยงาน.xlsx`
+This is your day-to-day guide for completing the official student work-time form. Every student in every group uses the **same dates, times, and tasks** below.
+
+### What goes in each column
+| Form column (Thai) | English | What you write |
+|--------------------|---------|----------------|
+| วัน เดือน ปี | Date | The work date. The form uses the Buddhist year (พ.ศ.): **2026 = 2569**. E.g. `17/06/2569`. |
+| ภาระงาน | Task / Duties | The task for that day (see the tables below). |
+| เวลาเข้า | Time-In | `08:00` in June–July, `09:00` in August–September. |
+| เวลาออก | Time-Out | `17:00` on every working day. |
+| ผู้ปฏิบัติงาน | Worker | Your signature. |
+| ผู้รับรองการทำงาน | Work certifier | Left for your supervisor to sign/initial. |
+| หมายเหตุ | Remarks | Leave blank unless something is unusual (e.g. a date swap). |
+
+> **Sign in blue ink only.** Fill one row per working day. Do **not** record hours on days that are not in the tables below.
+
+### June 2026 — 8 hr/day, 08:00–17:00 (free month, weekdays)
+| วัน เดือน ปี (Date) | ภาระงาน (Task) | เวลาเข้า | เวลาออก |
+|---------------------|----------------|---------|---------|
+| 17/06/2569 | Translate requirements into a system architecture plan | 08:00 | 17:00 |
+| 18/06/2569 | Evaluate tools and platforms for feasibility and fit | 08:00 | 17:00 |
+| 19/06/2569 | Define user stories, acceptance criteria, and data model | 08:00 | 17:00 |
+| 22/06/2569 | Draft the service interface and endpoints for major modules | 08:00 | 17:00 |
+| 23/06/2569 | Define request/response formats and error-handling rules | 08:00 | 17:00 |
+| 24/06/2569 | Create interface wireframes / mockups for core user flows | 08:00 | 17:00 |
+| 25/06/2569 | Continue interface wireframes and review with the team | 08:00 | 17:00 |
+| 26/06/2569 | Set up the codebase, version control, and dev environment | 08:00 | 17:00 |
+| 29/06/2569 | Review and refine architecture and interface design | 08:00 | 17:00 |
+| 30/06/2569 | Finalize design documents and plan the next stage | 08:00 | 17:00 |
+
+### July 2026 — 8 hr/day, 08:00–17:00 (free month, weekdays)
+| วัน เดือน ปี (Date) | ภาระงาน (Task) | เวลาเข้า | เวลาออก |
+|---------------------|----------------|---------|---------|
+| 06/07/2569 | Implement the backend skeleton, routing, and configuration | 08:00 | 17:00 |
+| 07/07/2569 | Build the data layer: models and storage | 08:00 | 17:00 |
+| 08/07/2569 | Add sample data and test the data layer | 08:00 | 17:00 |
+| 09/07/2569 | Implement authentication and user management | 08:00 | 17:00 |
+| 10/07/2569 | Implement core create/read/update/delete operations | 08:00 | 17:00 |
+| 13/07/2569 | Set up the application shell: navigation and layout | 08:00 | 17:00 |
+| 14/07/2569 | Build shared components and styling | 08:00 | 17:00 |
+| 15/07/2569 | Build the primary screens from the wireframes | 08:00 | 17:00 |
+| 16/07/2569 | Connect the interface to backend services and manage state | 08:00 | 17:00 |
+| 17/07/2569 | Implement loading, empty, and error states | 08:00 | 17:00 |
+
+### August 2026 — 7.5 hr/day, 09:00–17:00 (weekends only)
+| วัน เดือน ปี (Date) | ภาระงาน (Task) | เวลาเข้า | เวลาออก |
+|---------------------|----------------|---------|---------|
+| 01/08/2569 | Integrate the core processing/intelligence feature | 09:00 | 17:00 |
+| 02/08/2569 | Build the logic for the main use case | 09:00 | 17:00 |
+| 08/08/2569 | Refine the main use-case logic | 09:00 | 17:00 |
+| 09/08/2569 | Implement context handling and data retrieval | 09:00 | 17:00 |
+| 15/08/2569 | Continue data retrieval and integration | 09:00 | 17:00 |
+| 16/08/2569 | Add validation and safeguards for the feature output | 09:00 | 17:00 |
+| 22/08/2569 | Test the core feature end to end | 09:00 | 17:00 |
+| 23/08/2569 | Fix issues and improve the core feature | 09:00 | 17:00 |
+
+### September 2026 — 7.5 hr/day, 09:00–17:00 (weekends only)
+| วัน เดือน ปี (Date) | ภาระงาน (Task) | เวลาเข้า | เวลาออก |
+|---------------------|----------------|---------|---------|
+| 05/09/2569 | Wire the end-to-end flow across all components | 09:00 | 17:00 |
+| 06/09/2569 | Continue end-to-end integration | 09:00 | 17:00 |
+| 12/09/2569 | Write tests for critical paths | 09:00 | 17:00 |
+| 13/09/2569 | Fix bugs and handle edge cases | 09:00 | 17:00 |
+| 19/09/2569 | Refine the interface, error handling, and accessibility | 09:00 | 17:00 |
+| 20/09/2569 | Prepare demo data, scenarios, and a walkthrough script | 09:00 | 17:00 |
+| 26/09/2569 | Write documentation (setup guide and user guide) | 09:00 | 17:00 |
+| 27/09/2569 | Final prototype demo and presentation | 09:00 | 17:00 |
+
+**Total: 10 + 10 + 8 + 8 = 36 working days → 80 + 80 + 60 + 60 = 280 hr.** Sign each row; have your supervisor certify at the end of each month.
