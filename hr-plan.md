@@ -116,3 +116,49 @@ Per-student plan is identical, so totals scale linearly.
 - Every student: **80 / 80 / 60 / 60** hr (Jun/Jul/Aug/Sep) = **280 hr**.
 - All hard rules satisfied: Aug & Sep weekend-only and ≤ 60 hr/month; June & July unrestricted.
 - Project total: **4,200 hr** across 15 students.
+
+---
+
+## Prototype development stages — sample task guideline
+Tasks below are **samples** to record in the "Task / Duties" column, organized so each stage lines up with the schedule above. Stack reference: **Flutter** (frontend), **Flask** (backend), **LangChain + Google Gemini** (AI). Adjust per group/module.
+
+### Stage 1 — Discovery & Architecture  → June, week 1 (Jun 17–19)
+- Translate requirements into a system architecture plan.
+- Assess the technology stack (Flutter, Flask, LangChain, Google Gemini) for feasibility.
+- Define user stories and acceptance criteria for each module.
+- Draft the data model / entity-relationship diagram.
+
+### Stage 2 — Design & API Contract  → June, week 2 (Jun 22–30)
+- Draft the initial API structure and endpoints for all major modules.
+- Define request/response schemas and error formats.
+- Create UI wireframes / mockups for the core user flows.
+- Set up repositories, branching strategy, and development environments.
+
+### Stage 3 — Core Backend  → July, week 1 (Jul 6–10)
+- Implement the Flask application skeleton, routing, and configuration.
+- Build database models, migrations, and seed data.
+- Implement authentication and user management.
+- Implement core CRUD endpoints and validation.
+
+### Stage 4 — Core Frontend  → July, week 2 (Jul 13–17)
+- Scaffold the Flutter app: navigation, theming, and shared widgets.
+- Build the primary screens from the approved wireframes.
+- Connect the frontend to the backend API and handle state management.
+- Implement loading, empty, and error states.
+
+### Stage 5 — AI Integration  → August (weekends)
+- Integrate LangChain with Google Gemini into the backend.
+- Build prompt templates / chains for the medical use case.
+- Implement context handling / retrieval for relevant data.
+- Add guardrails and validation of AI output (safety, formatting).
+
+### Stage 6 — Integration & Testing  → September, weeks 1–2 (Sep 5–13)
+- Wire end-to-end flow: frontend ↔ backend ↔ AI service.
+- Write unit and integration tests for critical paths.
+- Fix bugs, handle edge cases, and tune performance.
+
+### Stage 7 — Polish & Demo  → September, weeks 3–4 (Sep 19–27)
+- Refine UI, error handling, and accessibility.
+- Prepare demo data, scenarios, and a walkthrough script.
+- Write documentation (README, setup guide, user guide).
+- Final prototype demo and presentation.
