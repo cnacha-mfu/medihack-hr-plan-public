@@ -1,4 +1,6 @@
-# What You Must Deliver — MediHack (due 27 Sep 2026)
+# What You Must Deliver — MediHack
+
+**Everything below is due 18 September 2026.** The final demo is on 27 September; the week in between is for your advisor to review your submission and for you to act on the feedback. Submitting on 18 Sep is the deadline, not a target — work handed in later cannot be reviewed before the demo.
 
 1. **Working prototype** — one per team, running end to end from a clean Git clone, with demo data included. No credentials or patient data in the repo.
 2. **Docs in the repo** — setup guide, user guide **in Thai** with screenshots, architecture diagram, API reference.
